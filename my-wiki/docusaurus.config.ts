@@ -11,7 +11,7 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'http://happybirthdayinferno.xyz',
   baseUrl: '/',
 
   organizationName: 'facebook',
