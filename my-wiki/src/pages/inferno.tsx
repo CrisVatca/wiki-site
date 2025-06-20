@@ -52,7 +52,7 @@ export default function InfernoPage() {
               May your naps be long, your weirdness stay strong, and your bedtime continue to be ‘just one more episode’ o’clock.
               🎉🦄😴☕️💥
               Haha joke, you’re awesome no matter what
-              Stay weird and cool
+              Stay MAD and cool
             </p>
             {/* Tenor GIF Embed */}
             <div key="13545214328338654386" className="tenor-gif-embed gif-container" data-postid="13545214328338654386" data-share-method="host" data-aspect-ratio="1.16327" data-width="60%">
@@ -67,8 +67,8 @@ export default function InfernoPage() {
             <ul>
               <li><strong>Temper:</strong> Angry bomb ready to explode at any time</li>
               <li><strong>Favorite pastimes:</strong> Barbecue, admiring feets, trolling, skipping sleep and sparking good vibes.</li>
-              <li><strong>Superpower:</strong> Laughs at their own jokes… even before finishing them. Good listener this mf. Cool whale. Sometimes good jokes. Unique personality.</li>
-              <li><strong>Achilles’ heel:</strong> Morning uni classes :))). Good advices he never implement. So clingy, even their shadow tries to get away. </li>
+              <li><strong>Superpower:</strong> Laughs at his own jokes… even before finishing them. Good listener this mf. Cool whale. Sometimes good jokes. Unique personality.</li>
+              <li><strong>Achilles’ heel:</strong> Morning uni classes :))). Good advices he never implements. So clingy, even his shadow tries to get away. </li>
             </ul>
        
     <div style={{ textAlign: 'center', marginTop: '1rem' }}>      
@@ -112,7 +112,7 @@ export default function InfernoPage() {
             <p>
               Inferno loves Kaufland sausages.
             </p>
-            <p>  He has so many personalities, even his playlist can’t keep up—it’s got songs for all of them!
+            <p>  He has so many personalities, even his playlist can’t keep up—he got songs for all of them!
              </p>
           </section>
         );
